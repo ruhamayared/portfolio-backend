@@ -3,12 +3,14 @@
       "name": "What’s there to Drink?",
       "live": "https://unit1project.vercel.app/",
       "git": "https://github.com/ruhamayared/Whats-there-to-Drink",
-      "image": "https://i.imgur.com/P48Fdym.png"
+      "image": "https://i.imgur.com/P48Fdym.png",
+      "description": "A simple web application that displays one random cocktail at a time with the ingredients and preparation information for a fun night - using The Cocktail DB API."
     },
     {
       "name": "Polynomials App",
       "live": "https://unit-2-project-ll26.onrender.com/",
       "git": "https://github.com/ruhamayared/Polynomials-App",
-      "image": "https://i.imgur.com/oOx1PtB.png"
+      "image": "https://i.imgur.com/oOx1PtB.png",
+      "description": "An app that allows a user to view a list of common polynomial functions, view an individual function and information on that function. Then the user will be able to create a new comment, update their existing comment, and delete a comment - all on the show page of each polynomial."
     }
   ]
